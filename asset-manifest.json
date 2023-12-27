@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hydrauli_cylinders_store/static/css/main.49cae6d5.css",
+    "main.css": "/hydrauli_cylinders_store/static/css/main.d8d41d9b.css",
     "main.js": "/hydrauli_cylinders_store/static/js/main.395322c3.js",
     "static/media/sneakers-1.jpg": "/hydrauli_cylinders_store/static/media/sneakers-1.ab6280be9b13125606d2.jpg",
     "static/media/checked.svg": "/hydrauli_cylinders_store/static/media/checked.890c21e6e092e231b04d7f8d3b23767a.svg",
@@ -12,11 +12,11 @@
     "static/media/like-2.svg": "/hydrauli_cylinders_store/static/media/like-2.d393617871e6c2f73f7ff382c10743ff.svg",
     "static/media/plus.svg": "/hydrauli_cylinders_store/static/media/plus.b88e94c67ea7ac0cfa69033241c96b8c.svg",
     "index.html": "/hydrauli_cylinders_store/index.html",
-    "main.49cae6d5.css.map": "/hydrauli_cylinders_store/static/css/main.49cae6d5.css.map",
+    "main.d8d41d9b.css.map": "/hydrauli_cylinders_store/static/css/main.d8d41d9b.css.map",
     "main.395322c3.js.map": "/hydrauli_cylinders_store/static/js/main.395322c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.49cae6d5.css",
+    "static/css/main.d8d41d9b.css",
     "static/js/main.395322c3.js"
   ]
 }
