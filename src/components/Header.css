@@ -1,0 +1,41 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 8px;
+    border-color: rgb(203 213 225);
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+li {
+    display: flex;;
+    cursor: pointer;
+    color: rgb(156 163 175);
+    margin: 0 30px;
+}
+
+header img {
+    margin-right: 20px;
+}
+
+p {
+    color: rgb(100 116 139);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    width: 70px;
+}

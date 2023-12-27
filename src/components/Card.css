@@ -1,0 +1,34 @@
+.container_card {
+    position: relative;
+    padding: 2rem;
+    margin: 5px;
+    border-radius: 1rem;
+    border-width: 1px;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-duration: 300ms;
+    cursor: pointer;
+}
+
+.container_card:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 1.25rem;
+    justify-content: space-between;
+}
+
+.wrapper_card {
+    display: flex;
+    flex-direction: column;
+}
+
+.is_added {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.more {
+    width: 20px;
+}

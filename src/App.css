@@ -1,0 +1,16 @@
+.container {
+    padding: 10px;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 5px;
+    margin-left: 90px;
+}
+
+h2 {
+    color: rgb(62, 74, 91);
+    font-size: 5em;
+    text-align: center;
+}
