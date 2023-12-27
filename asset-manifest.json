@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/hydrauli_cylinders_store/static/css/main.93b933a1.css",
-    "main.js": "/hydrauli_cylinders_store/static/js/main.9a13a712.js",
+    "main.css": "/hydrauli_cylinders_store/static/css/main.fc6a46b7.css",
+    "main.js": "/hydrauli_cylinders_store/static/js/main.3a9d046a.js",
+    "static/media/heart.svg": "/hydrauli_cylinders_store/static/media/heart.4856a1f64bbb7740190b308394c8bd27.svg",
+    "static/media/profile.svg": "/hydrauli_cylinders_store/static/media/profile.381202f7e3edbc1a00b14fbd5e529a32.svg",
+    "static/media/cart.svg": "/hydrauli_cylinders_store/static/media/cart.ddf36cf5b2b1908433283ce170851299.svg",
     "index.html": "/hydrauli_cylinders_store/index.html",
-    "main.93b933a1.css.map": "/hydrauli_cylinders_store/static/css/main.93b933a1.css.map",
-    "main.9a13a712.js.map": "/hydrauli_cylinders_store/static/js/main.9a13a712.js.map"
+    "main.fc6a46b7.css.map": "/hydrauli_cylinders_store/static/css/main.fc6a46b7.css.map",
+    "main.3a9d046a.js.map": "/hydrauli_cylinders_store/static/js/main.3a9d046a.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b933a1.css",
-    "static/js/main.9a13a712.js"
+    "static/css/main.fc6a46b7.css",
+    "static/js/main.3a9d046a.js"
   ]
 }
