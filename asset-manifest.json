@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/hydrauli_cylinders_store/static/css/main.fc6a46b7.css",
-    "main.js": "/hydrauli_cylinders_store/static/js/main.3a9d046a.js",
+    "main.css": "/hydrauli_cylinders_store/static/css/main.49cae6d5.css",
+    "main.js": "/hydrauli_cylinders_store/static/js/main.01a9583b.js",
+    "static/media/sneakers-1.jpg": "/hydrauli_cylinders_store/static/media/sneakers-1.ab6280be9b13125606d2.jpg",
+    "static/media/checked.svg": "/hydrauli_cylinders_store/static/media/checked.890c21e6e092e231b04d7f8d3b23767a.svg",
     "static/media/heart.svg": "/hydrauli_cylinders_store/static/media/heart.4856a1f64bbb7740190b308394c8bd27.svg",
+    "static/media/like-1.svg": "/hydrauli_cylinders_store/static/media/like-1.9b9476985ff38b5fb1aaac6ddcc9946d.svg",
     "static/media/profile.svg": "/hydrauli_cylinders_store/static/media/profile.381202f7e3edbc1a00b14fbd5e529a32.svg",
+    "static/media/more.svg": "/hydrauli_cylinders_store/static/media/more.4823b1f25fdc62814e938de583a4ca6b.svg",
     "static/media/cart.svg": "/hydrauli_cylinders_store/static/media/cart.ddf36cf5b2b1908433283ce170851299.svg",
+    "static/media/like-2.svg": "/hydrauli_cylinders_store/static/media/like-2.d393617871e6c2f73f7ff382c10743ff.svg",
+    "static/media/plus.svg": "/hydrauli_cylinders_store/static/media/plus.b88e94c67ea7ac0cfa69033241c96b8c.svg",
     "index.html": "/hydrauli_cylinders_store/index.html",
-    "main.fc6a46b7.css.map": "/hydrauli_cylinders_store/static/css/main.fc6a46b7.css.map",
-    "main.3a9d046a.js.map": "/hydrauli_cylinders_store/static/js/main.3a9d046a.js.map"
+    "main.49cae6d5.css.map": "/hydrauli_cylinders_store/static/css/main.49cae6d5.css.map",
+    "main.01a9583b.js.map": "/hydrauli_cylinders_store/static/js/main.01a9583b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc6a46b7.css",
-    "static/js/main.3a9d046a.js"
+    "static/css/main.49cae6d5.css",
+    "static/js/main.01a9583b.js"
   ]
 }
