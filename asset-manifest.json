@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hydrauli_cylinders_store/static/css/main.93b933a1.css",
+    "main.js": "/hydrauli_cylinders_store/static/js/main.9a13a712.js",
+    "index.html": "/hydrauli_cylinders_store/index.html",
+    "main.93b933a1.css.map": "/hydrauli_cylinders_store/static/css/main.93b933a1.css.map",
+    "main.9a13a712.js.map": "/hydrauli_cylinders_store/static/js/main.9a13a712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b933a1.css",
+    "static/js/main.9a13a712.js"
+  ]
+}
